@@ -1,4 +1,0 @@
-#!/bin/bash/
-username=$(whoami)
-echo "Effective username: $username"
-
